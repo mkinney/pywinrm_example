@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 import winrm
 
-import winrm
-
 ps_script = """
 $url = "https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.exe"
 $output = "$home\Downloads\python-3.7.6-amd64.exe"

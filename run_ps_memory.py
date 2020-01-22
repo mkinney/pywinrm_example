@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 import winrm
 
-import winrm
-
 ps_script = """$strComputer = $Host
 Clear
 $RAM = WmiObject Win32_ComputerSystem
