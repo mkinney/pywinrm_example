@@ -14,6 +14,7 @@ Examples:
     ./simple.py 192.168.3.155
     ./run_ps_memory.py 192.168.3.155
     ./download_and_install_python.py 192.168.3.155
+    ./install_pyinfra.py 192.168.3.155
 
 If using Vagrant, see Vagrantfile in this directory.
 
