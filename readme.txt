@@ -9,6 +9,10 @@ Install python libs:
 
     pip install pywinrm
 
+Optionally, install direnv and run:
+
+    direnv allow
+
 Examples:
 
     ./simple.py 192.168.3.155
